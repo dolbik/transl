@@ -386,9 +386,9 @@
         <source>TEST_1</source>
         <target xml:lang="ru" state="needs-translation">TEST_1</target>
       </trans-unit>
-      <trans-unit id="97">
+      <trans-unit id="97" approved="yes">
         <source>TEST_2</source>
-        <target xml:lang="ru" state="needs-translation">TEST_2</target>
+        <target xml:lang="ru" state="translated">ТЕСТ_2</target>
       </trans-unit>
     </body>
   </file>
