@@ -386,6 +386,10 @@
         <source>TEST_1</source>
         <target xml:lang="de" state="needs-translation">TEST_1</target>
       </trans-unit>
+      <trans-unit id="97">
+        <source>TEST_2</source>
+        <target xml:lang="de" state="needs-translation">TEST_2</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
