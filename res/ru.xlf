@@ -378,6 +378,10 @@
         <source>View and manage your Identity and Access Management (IAM) objects</source>
         <target xml:lang="ru" state="needs-translation">View and manage your Identity and Access Management (IAM) objects</target>
       </trans-unit>
+      <trans-unit id="95">
+        <source>TEST</source>
+        <target xml:lang="ru" state="needs-translation">TEST</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
