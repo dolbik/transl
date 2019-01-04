@@ -378,9 +378,9 @@
         <source>View and manage your Identity and Access Management (IAM) objects</source>
         <target xml:lang="ru" state="needs-translation">View and manage your Identity and Access Management (IAM) objects</target>
       </trans-unit>
-      <trans-unit id="95">
+      <trans-unit id="95" approved="yes">
         <source>TEST</source>
-        <target xml:lang="ru" state="needs-translation">TEST</target>
+        <target xml:lang="ru" state="translated">ТЕСТ</target>
       </trans-unit>
       <trans-unit id="96">
         <source>TEST_1</source>
